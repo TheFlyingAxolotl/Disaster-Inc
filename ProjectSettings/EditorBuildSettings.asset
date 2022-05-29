@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/introduction.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/countries.unity
+    guid: 75baa54ac56f731438d484bf6e9dc8cb
+  - enabled: 1
+    path: Assets/Scenes/difficulty.unity
+    guid: c107a77c11ac88a4cb4a585c97e00475
+  - enabled: 1
+    path: Assets/Scenes/tech tree.unity
+    guid: 9bd238b0f10f5b243be65d1b1d40422b
+  m_configObjects: {}
